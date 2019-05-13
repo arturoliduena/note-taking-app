@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## clone repository
+`git clone https://github.com/arturoliduena/note-taking-app.git`
+
+## install dependencies
+`npm install` or `yarn` 
+
 ## Available Scripts
 
 In the project directory, you can run:
